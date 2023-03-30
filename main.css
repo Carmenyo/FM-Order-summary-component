@@ -26,25 +26,23 @@ body {
 }
 
 .container {
+  margin: auto;
   background-color: hsl(255, 100%, 100%);
-  margin-top: 200px;
   width: 28rem;
   height: 44rem;
   font-family: "Red Hat Display", sans-serif;
   text-align: center;
   border-radius: 25px;
   font-size: 16px;
-
-  
 }
 
-.img {
+.mainImage {
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   max-width: 100%;
 }
 
-h1 {
+.mainTitle {
   font-weight: 900;
   font-size: 1.9rem;
   margin-top: 2.5rem;
@@ -66,15 +64,14 @@ h1 {
   background-color: var(--color3);
   border-radius: 1rem;
   justify-content: space-around;
-width: 22rem;
+  width: 22rem;
   font-size: 1.2rem;
   font-weight: 600;
   height: 6.5rem;
-  margin:auto;
+  margin: auto;
   margin-bottom: 1.5rem;
- 
 }
-.titlePlan{
+.titlePlan {
   font-weight: 900;
 }
 .price {
@@ -88,8 +85,8 @@ width: 22rem;
   color: var(--color4);
   font-size: smaller;
 }
-.changePlan{
-  font-size: .9rem;
+.changePlan {
+  font-size: 0.9rem;
   font-weight: 800;
 }
 
@@ -110,7 +107,6 @@ width: 22rem;
   line-height: 40px;
   margin-bottom: 1.8rem;
   font-weight: 700;
-  
 }
 
 .cancelButton {
@@ -120,3 +116,16 @@ width: 22rem;
   font-weight: 600;
 }
 
+@media only screen and (max-width: 767px) {
+  body {
+    margin: auto;
+  }
+
+  .container {
+    width: 20rem;
+    height: 42rem;
+  }
+  .planBox {
+    width: 18rem;
+}
+}
