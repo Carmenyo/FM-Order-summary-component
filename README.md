@@ -1,39 +1,39 @@
 # Frontend Mentor - Order summary component
 
-This is a solution to the [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-
-- [My process](#my-process)
-	- [Built with](#built-with)
-	- [What I learned](#what-i-learned)
-- [Author](#author)
-
-
-
-## Overview
-
-### Screenshot
-
 ![Normal](./images/Solution.png)
 
+# Frontend Mentor - Order Summary Component
 
-## My process
+![Order Summary Component](./images/screenshot.png)
 
-### Built with
+This is a project for the Frontend Mentor challenge called "Order Summary Component". In this project, I've created an order summary component that displays basic order information and provides a clean and attractive user interface.
 
-- Semantic HTML5 markup
+## Features
+
+- Simple and elegant order summary component.
+- Uses HTML5 and CSS3 to structure and style the interface.
+- Responsive layout that adapts to different screen sizes.
+
+## Technologies Used 🛠️
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML5: Markup language for structuring the web page.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS3: Styling language for design and presentation.
+
+## Usage Instructions
+
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your web browser to view the order summary component.
+
+## Customization
+
+If you want to customize or enhance the order summary component, here are some suggestions:
+
+- Modify the CSS styles to change colors, fonts, and layouts.
+- Add animations or transition effects to enhance the user experience.
+- Expand the information displayed in the component to include more order details.
+
+## Author ✒️
+
+- **Carmenyo** - [Carmenyo](https://github.com/carmenyo)
 
 
-### What I learned
-
-
-
-
-
-## Author
-
-- Frontend Mentor - [@Carmenyo](https://www.frontendmentor.io/profile/Carmenyo)
