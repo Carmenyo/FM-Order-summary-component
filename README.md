@@ -1,12 +1,8 @@
 # Frontend Mentor - Order summary component
 
-![Normal](./images/Solution.png)
-
-# Frontend Mentor - Order Summary Component
-
-![Order Summary Component](./images/screenshot.png)
-
 This is a project for the Frontend Mentor challenge called "Order Summary Component". In this project, I've created an order summary component that displays basic order information and provides a clean and attractive user interface.
+
+![Normal](./images/Solution.png)
 
 ## Features
 
