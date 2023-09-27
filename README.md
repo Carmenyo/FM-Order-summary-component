@@ -2,7 +2,7 @@
 
 This is a project for the Frontend Mentor challenge called "Order Summary Component". In this project, I've created an order summary component that displays basic order information and provides a clean and attractive user interface.
 
-![Normal](./images/Solution.png)
+![Normal](./images/Neutral%20Minimal%20Shadow%20Photographer%20Frame%20Mockup%20Pinterest%20Pin.png)
 
 ## Features
 
